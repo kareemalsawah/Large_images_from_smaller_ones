@@ -8,3 +8,6 @@ The idea is to use small scale images to draw a larger scale image by calculatin
 
 ##### After
 ![alt text](/Images/Result.png "After")
+
+###### TODO:
+* Fix color issue
